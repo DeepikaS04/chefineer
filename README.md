@@ -14,3 +14,12 @@ Doesn't it sound both interesting and healthy.</p>
 <p><b><i>
  Voila!!! The output will be a dish or a list of dishes that you can prepare according to your given choices!
 </i></b></p>
+
+<p>We have used Transformers to train the data set. We have trained the model using GPT2 module. <br>
+<h4>Transformers <br></h4>
+Transformers are a type of neural network architecture. Transformers were developed to solve the problem of sequence transduction, or neural machine translation. That means any task that transforms an input sequence to an output sequence. This includes speech recognition, text-to-speech transformation, etc. Here since we have a dataset having a lot of textual data, it becomes difficult to train it using the traditional neural network algorithms. Hence we came across tranformers and found them useful for training our dataset.<br>
+Keeping in mind the trending topics in the field of machine learning, we have also used Google's Bard to get our output. We achieved this by using a python module 'bardapi'. We fetch cookies of the current session of Bard using requests and then give it a prompt as input.
+</p>
+<h3>Output</h3>
+<img src="Screen Shot 2023-07-16 at 10.13.17 PM.png" alt = "output">
+<a href = "https://colab.research.google.com/drive/1bv5ZC32k3rgwP14SzxtKM0Ua_z1Sv0K5?usp=sharing"> Google Colab Notebook Link </a>
