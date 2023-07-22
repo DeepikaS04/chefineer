@@ -21,5 +21,5 @@ Transformers are a type of neural network architecture. Transformers were develo
 Keeping in mind the trending topics in the field of machine learning, we have also used Google's Bard to get our output. We achieved this by using a python module 'bardapi'. We fetch cookies of the current session of Bard using requests and then give it a prompt as input.
 </p>
 <h3>Output</h3>
-<img src="Screen Shot 2023-07-16 at 10.13.17 PM.png" alt = "output">
+<img src="Output/Screen Shot 2023-07-16 at 10.13.17 PM.png" alt = "Output">
 <a href = "https://colab.research.google.com/drive/1bv5ZC32k3rgwP14SzxtKM0Ua_z1Sv0K5?usp=sharing"> Google Colab Notebook Link </a>
